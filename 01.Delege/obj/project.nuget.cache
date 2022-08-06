@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "k/EuBuQgsFDLDlEh/Nf0TQQ/wDejYfMETotEGepMgC8+lnR6YlnIdm5opi3E2ZIYb+YvUWgEmES0bVoTyQt5wg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ARIBILGI\\Desktop\\uygulama\\GerekliBilgiler\\01.Delege\\01.Delege.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ARIBILGI\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

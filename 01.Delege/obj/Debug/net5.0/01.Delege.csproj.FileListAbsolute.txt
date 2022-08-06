@@ -1,0 +1,16 @@
+C:\Users\ARIBILGI\Desktop\uygulama\GerekliBilgiler\01.Delege\bin\Debug\net5.0\01.Delege.exe
+C:\Users\ARIBILGI\Desktop\uygulama\GerekliBilgiler\01.Delege\bin\Debug\net5.0\01.Delege.deps.json
+C:\Users\ARIBILGI\Desktop\uygulama\GerekliBilgiler\01.Delege\bin\Debug\net5.0\01.Delege.runtimeconfig.json
+C:\Users\ARIBILGI\Desktop\uygulama\GerekliBilgiler\01.Delege\bin\Debug\net5.0\01.Delege.runtimeconfig.dev.json
+C:\Users\ARIBILGI\Desktop\uygulama\GerekliBilgiler\01.Delege\bin\Debug\net5.0\01.Delege.dll
+C:\Users\ARIBILGI\Desktop\uygulama\GerekliBilgiler\01.Delege\bin\Debug\net5.0\01.Delege.pdb
+C:\Users\ARIBILGI\Desktop\uygulama\GerekliBilgiler\01.Delege\obj\Debug\net5.0\01.Delege.csproj.AssemblyReference.cache
+C:\Users\ARIBILGI\Desktop\uygulama\GerekliBilgiler\01.Delege\obj\Debug\net5.0\01.Delege.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ARIBILGI\Desktop\uygulama\GerekliBilgiler\01.Delege\obj\Debug\net5.0\01.Delege.AssemblyInfoInputs.cache
+C:\Users\ARIBILGI\Desktop\uygulama\GerekliBilgiler\01.Delege\obj\Debug\net5.0\01.Delege.AssemblyInfo.cs
+C:\Users\ARIBILGI\Desktop\uygulama\GerekliBilgiler\01.Delege\obj\Debug\net5.0\01.Delege.csproj.CoreCompileInputs.cache
+C:\Users\ARIBILGI\Desktop\uygulama\GerekliBilgiler\01.Delege\obj\Debug\net5.0\01.Delege.dll
+C:\Users\ARIBILGI\Desktop\uygulama\GerekliBilgiler\01.Delege\obj\Debug\net5.0\refint\01.Delege.dll
+C:\Users\ARIBILGI\Desktop\uygulama\GerekliBilgiler\01.Delege\obj\Debug\net5.0\01.Delege.pdb
+C:\Users\ARIBILGI\Desktop\uygulama\GerekliBilgiler\01.Delege\obj\Debug\net5.0\01.Delege.genruntimeconfig.cache
+C:\Users\ARIBILGI\Desktop\uygulama\GerekliBilgiler\01.Delege\obj\Debug\net5.0\ref\01.Delege.dll
